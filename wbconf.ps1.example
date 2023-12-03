@@ -1,0 +1,28 @@
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+
+$basepathPrivate               = 'D:\wb\'
+$assetsPrivate                 = 'D:\wb\assets\'
+$dbServerPrivate               = '.\sql2014'
+$dbAdminUser                   = 'sa'
+$dbAdminPass                   = 'sa'
+$apmUser                       = 'username'
+$itUser                        = '45020739'
+$itPass                        = 'ClickUpAuthToken'
+$buildExePrivate               = '.\BuildTools\DevTools\nant-0.90\bin\NAnt.exe'
+$devenvPrivate                 = 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\devenv.exe'
+$msbuildPrivate                = "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\MSBuild.exe"
+$iisExpressExe                 = 'C:\Program Files (x86)\IIS Express\iisexpress.exe'
+$applicationHostConfigPrivate  = "C:\Program Files (x86)\IIS Express\AppServer\applicationhost.config"
+$ssmsPrivate                   = "C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\Ssms.exe"
+$svnTortoiseProcExe            = "C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe"
+$textEditor				 		= "C:\Windows\System32\notepad.exe"
+$portNumberPrivate             = 8080
+$svnUrlPrivate                 = 'https://bld00.aquilan.atx/svn/aquilan/branches/'
+$svnTagsUrlPrivate             = 'https://bld00.aquilan.atx/svn/aquilan/tags'
+$issueTrackerUrl               = 'https://app.clickup.com/t/'
+$issueTrackerApi               = 'https://api.clickup.com/api/v2/task/'
+# -----------------------------------------------------------------------------
+
+#   Computer\HKEY_CURRENT_USER\Console\D:_wb_c2882_500_Version5Search_Aquilan.Service_bin_Aquilan.Service.exe 
+#
